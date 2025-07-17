@@ -87,3 +87,4 @@ El modelo permite escalar horizontalmente mediante la adición de nuevas categor
 La solución propuesta responde a los requerimientos funcionales y no funcionales de una plataforma de comercialización moderna. El modelo relacional garantiza consistencia, rendimiento y extensibilidad, permitiendo el desarrollo de aplicaciones web o móviles que consuman esta base de datos mediante APIs, análisis de datos o dashboards administrativos. Este sistema sienta las bases para una arquitectura de información sólida, adaptable y preparada para evolucionar hacia entornos distribuidos o microservicios.
 
 # 
+<img width="2155" height="1082" alt="image" src="https://github.com/user-attachments/assets/4cfb5970-3777-4ac7-a30f-32f6878a1a1c" />
